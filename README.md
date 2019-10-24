@@ -37,4 +37,4 @@ the source code for this feature.
 
 [ANSI-Standard]: https://www.ametric.com/images/document/Chain-RollerANSI-Standard.pdf "chain pdf"
 [resource]: https://www.efficientplantmag.com/2012/05/the-basics-of-roller-chain-sprockets/ "pitch spec"
-[Document]: https://cad.onshape.com/documents/e0933a917c8cf13576856a5e/w/756f9a964942e6739c52bda3/e/a32918e98fc69173b9435ddb "Public Document"
+[Document]: https://cad.onshape.com/documents/e0933a917c8cf13576856a5e/w/756f9a964942e6739c52bda3/e/6cd68ab0a3887253048db8eb "Public Document"
