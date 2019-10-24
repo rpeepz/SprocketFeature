@@ -25,7 +25,7 @@ resulting in a perfecly semetrical design.
 
 <br>
 
-click on this [Document] to view it all on Onshape's website
+## click on this [Document] to view it all on Onshape's website
 
  -->
 <img src="https://github.com/rpeepz/SprocketFeature/blob/master/view.PNG?raw=true" title="More tabs" max-width=500px width="50%"/>
