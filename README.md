@@ -1,12 +1,11 @@
 # Sprocket Feature
 Heres my Onshape feature script to build a sprocket
 (Designed for Single Roller Chain)
-
-
+ 
 To use this feature after importing, use the handy "custom feature" tab and `Sprocket` Should pop out.
 
-<img src="https://github.com/rpeepz/SprocketFeature/blob/master/Feature.PNG?raw=trueG" title="Feature" min-width=500px  width="50%"/>
-<img src="https://github.com/rpeepz/SprocketFeature/blob/master/FeatureOptions.PNG?raw=true" title="Options" max-width=500px width="50%" />
+<img src="https://imgur.com/kZtzY0O" title="Feature" min-width=500px  width="50%"/>
+<img src="https://imgur.com/V7XeNEK" title="Options" max-width=500px width="60%" />
 
 After selecting a `plane` to draw on, the feature will render with default parameters.
 
@@ -21,14 +20,14 @@ then mirrored across the vertical axis, <br>
 and finally rotated around the center for each tooth, <br>
 resulting in a perfecly semetrical design.
 
-<img src="https://github.com/rpeepz/SprocketFeature/blob/master/Points.PNG?raw=true" title="Points" max-width=500px width="50%"/>
+<img src="https://imgur.com/bvAHEI0" title="Points" max-width=500px width="50%"/>
 
 <br>
 
 ## click on this [Document] to view it all on Onshape's website
 
  -->
-<img src="https://github.com/rpeepz/SprocketFeature/blob/master/view.PNG?raw=true" title="More tabs" max-width=500px width="50%"/>
+<img src="https://imgur.com/JC3NO4E" title="More tabs" max-width=500px width="50%"/>
 
 In the corner of the page you will find another tab with another <br> 
 demo sprocket I've made. In the next tab you will find <br>
