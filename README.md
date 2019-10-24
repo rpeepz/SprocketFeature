@@ -4,8 +4,8 @@ Heres my Onshape feature script to build a sprocket
  
 To use this feature after importing, use the handy "custom feature" tab and `Sprocket` Should pop out.
 
-<img src="https://imgur.com/kZtzY0O" title="Feature" min-width=500px  width="50%"/>
-<img src="https://imgur.com/V7XeNEK" title="Options" max-width=500px width="60%" />
+<img src="https://imgur.com/kZtzY0O.png" title="Feature" min-width=500px  width="50%"/>
+<img src="https://imgur.com/V7XeNEK.png" title="Options" max-width=500px width="60%" />
 
 After selecting a `plane` to draw on, the feature will render with default parameters.
 
@@ -20,14 +20,14 @@ then mirrored across the vertical axis, <br>
 and finally rotated around the center for each tooth, <br>
 resulting in a perfecly semetrical design.
 
-<img src="https://imgur.com/bvAHEI0" title="Points" max-width=500px width="50%"/>
+<img src="https://imgur.com/bvAHEI0.png" title="Points" max-width=500px width="50%"/>
 
 <br>
 
 ## click on this [Document] to view it all on Onshape's website
 
  -->
-<img src="https://imgur.com/JC3NO4E" title="More tabs" max-width=500px width="50%"/>
+<img src="https://imgur.com/JC3NO4E.png" title="More tabs" max-width=500px width="50%"/>
 
 In the corner of the page you will find another tab with another <br> 
 demo sprocket I've made. In the next tab you will find <br>
